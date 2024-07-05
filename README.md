@@ -44,3 +44,11 @@
 -- Execute when timer completes countdown
 
 -pnpm i use-debounce
+
+## Mutation 
+
+- mutate data along with revalidate cache and path ( means user can quickly navigate between the routes )
+
+## Dynamic Route Segment 
+
+- name in square brackets. For example, [id], [post] or [slug]
