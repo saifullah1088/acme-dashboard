@@ -36,3 +36,11 @@
 - combine the effects of both partial and dynamic rendering
 - fast loads the static data and create a hole for dynamic data which is requested. In other words dynamic content is postponed until the user requests the route.
 
+## Debouncing 
+
+- a program that limits the fire of function 
+-- Trigger Event (Timer Start)
+-- Wait (if new event comes timner again reset)
+-- Execute when timer completes countdown
+
+-pnpm i use-debounce
