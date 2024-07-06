@@ -43,7 +43,7 @@
 - Wait (if new event comes timner again reset)
 - Execute when timer completes countdown
 
--pnpm i use-debounce
+- pnpm i use-debounce
 
 ## Mutation 
 
