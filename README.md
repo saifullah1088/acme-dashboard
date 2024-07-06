@@ -29,3 +29,10 @@
 -- To solve slow fetching problem 
 - Suspense (gives a fallback until specific condition matches means eg: data loads ). It can be used  on specific componenets.
 - Loading
+
+
+## Partial Perendering
+
+- combine the effects of both partial and dynamic rendering
+- fast loads the static data and create a hole for dynamic data which is requested. In other words dynamic content is postponed until the user requests the route.
+
